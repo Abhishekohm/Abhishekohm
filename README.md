@@ -1,5 +1,5 @@
 -Hi, I’m Abhishek Omprakash Gupta (abhishekohm) <br>
--I’m interested in programming, development and bodybuilding. <br>
+-I’m interested in programming, development. <br>
 -I’m currently pursuing B. Tech. in Information Technology from VJTI, Mumbai.<br>
 -You can reach me via instagram @abhishekohm. <br>
 
