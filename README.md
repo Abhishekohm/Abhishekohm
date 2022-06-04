@@ -1,4 +1,4 @@
-### Hi there, I'm Abhishek Gupta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Abhishek Gupta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px" >
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-gupta-a165101bb/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/abhishek_ohm/)
 [![Facebook Badge](https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-square&logo=facebook&logoColor=white)](https://www.facebook.com/people/Abhishek-Gupta/100073291547670/)
